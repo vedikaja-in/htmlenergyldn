@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a short story in html.</h1>
+<p>Boy meets girl. Girl meets boy.</p>
+<p>"I'm going <b>northbound</b>.</p> 
+<p>"I'm going <b>southbound</b>."</p>
+<img src="https://i0.wp.com/thatanxioustraveller.com/wp-content/uploads/2018/10/how-to-use-the-london-underground-directions.jpg?resize=960%2C720&ssl=1" width="500">
+
+</body>
+</html>
